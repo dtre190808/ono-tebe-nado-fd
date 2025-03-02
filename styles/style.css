@@ -33,10 +33,10 @@
   justify-self: end;
   width: 240px;
   max-width: 185px;
-  height: 98px; 
-  color: #333; 
+  height: 98px;
+  color: #333;
   font-size: 14px;
-  font-style: normal; 
+  font-style: normal;
   line-height: 1.5;
 }
 
@@ -209,8 +209,7 @@
 
 .about {
   display: grid;
-  grid-template-columns: 334px 1fr; 
-  align-items: center;
+  grid-template-columns: 334px 1fr;
   align-items: flex-start;
   gap: 72px;
   width: 1052px;
@@ -239,10 +238,10 @@
 .about__column-left {
   width: 240px;
   max-width: 185px;
-  height: 98px; 
-  color: #333; 
+  height: 98px;
+  color: #333;
   font-size: 14px;
-  font-style: normal; 
+  font-style: normal;
   line-height: 1.5;
 }
 
@@ -281,10 +280,10 @@
 .footer__contacts {
   width: 264px;
   height: 98px; 
-  color: #333; 
+  color: #333;
   font-size: 18px;
   font-style: normal; 
-  line-height: 1.5; 
+  line-height: 1.5;
 }
 
 .footer__menu-list {
