@@ -32,7 +32,7 @@ address {
   text-decoration: underline;
 }
 
-.menu-item-no-underline{
+.menu-item-no-underline {
   text-decoration: none;
 }
 
@@ -73,7 +73,7 @@ address {
   line-height: 1.35;
 }
 
-.header_address{
+.header_address {
   margin-left: 59px;
 }
 
@@ -86,7 +86,7 @@ address {
   text-decoration: underline;
 }
 
-.address__nounderline{
+.address__nounderline {
   text-decoration: none;
 }
 
@@ -120,7 +120,7 @@ address {
   text-transform: uppercase;
 }
 
-.aligned-text{
+.aligned-text {
   display: block;
   padding-bottom: 17px;
   line-height: 115%;
@@ -327,7 +327,7 @@ address {
   padding-bottom: 82px;
 }
 
- .footer-contacts{
+ .footer-contacts {
   max-width: 238px;
   line-height: 1.39;
 } 
